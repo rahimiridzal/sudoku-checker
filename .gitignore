@@ -1,7 +1,14 @@
 # Compiled object files
 *.o
-*.out
+
+# Executable files
 *.exe
+*.out
+*.app
+*.dmg
+*.pkg
+*.ipa
+*.apk
 
 # Compiled dynamic libraries
 *.so
