@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.out
+*.exe
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+
+# Compiled static libraries
+*.a
+
+# macOS specific files
+.DS_Store
+
+# Visual Studio Code specific files
+.vscode/
+
+# Compiled C++ executable
+sudoku_solver
+
+# Other build artifacts
+build/
