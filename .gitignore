@@ -24,7 +24,7 @@
 .vscode/
 
 # Compiled C++ executable
-sudoku_solver
+main
 
 # Other build artifacts
 build/
